@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\bin\Debug\net6.0\InterfacesEX1.exe
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\bin\Debug\net6.0\InterfacesEX1.deps.json
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\bin\Debug\net6.0\InterfacesEX1.runtimeconfig.json
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\bin\Debug\net6.0\InterfacesEX1.dll
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\bin\Debug\net6.0\InterfacesEX1.pdb
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.AssemblyInfo.cs
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.dll
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\refint\InterfacesEX1.dll
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.pdb
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\InterfacesEX1.genruntimeconfig.cache
+C:\Users\joaod\source\repos\InterfacesEX1\InterfacesEX1\obj\Debug\net6.0\ref\InterfacesEX1.dll

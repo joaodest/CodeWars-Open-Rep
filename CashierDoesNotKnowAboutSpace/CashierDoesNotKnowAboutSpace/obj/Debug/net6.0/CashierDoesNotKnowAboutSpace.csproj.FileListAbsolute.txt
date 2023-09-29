@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.AssemblyInfo.cs
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\bin\Debug\net6.0\CashierDoesNotKnowAboutSpace.exe
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\bin\Debug\net6.0\CashierDoesNotKnowAboutSpace.deps.json
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\bin\Debug\net6.0\CashierDoesNotKnowAboutSpace.runtimeconfig.json
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\bin\Debug\net6.0\CashierDoesNotKnowAboutSpace.dll
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\bin\Debug\net6.0\CashierDoesNotKnowAboutSpace.pdb
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.dll
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\refint\CashierDoesNotKnowAboutSpace.dll
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.pdb
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\CashierDoesNotKnowAboutSpace.genruntimeconfig.cache
+C:\Users\joaod\source\repos\CashierDoesNotKnowAboutSpace\CashierDoesNotKnowAboutSpace\obj\Debug\net6.0\ref\CashierDoesNotKnowAboutSpace.dll

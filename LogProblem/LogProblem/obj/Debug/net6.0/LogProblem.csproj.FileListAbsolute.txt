@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\LogProblem\LogProblem\bin\Debug\net6.0\LogProblem.exe
+C:\Users\joaod\source\repos\LogProblem\LogProblem\bin\Debug\net6.0\LogProblem.deps.json
+C:\Users\joaod\source\repos\LogProblem\LogProblem\bin\Debug\net6.0\LogProblem.runtimeconfig.json
+C:\Users\joaod\source\repos\LogProblem\LogProblem\bin\Debug\net6.0\LogProblem.dll
+C:\Users\joaod\source\repos\LogProblem\LogProblem\bin\Debug\net6.0\LogProblem.pdb
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.AssemblyInfo.cs
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.dll
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\refint\LogProblem.dll
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.pdb
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\LogProblem.genruntimeconfig.cache
+C:\Users\joaod\source\repos\LogProblem\LogProblem\obj\Debug\net6.0\ref\LogProblem.dll

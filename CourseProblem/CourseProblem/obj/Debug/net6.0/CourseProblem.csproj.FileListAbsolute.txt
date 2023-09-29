@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\bin\Debug\net6.0\CourseProblem.exe
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\bin\Debug\net6.0\CourseProblem.deps.json
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\bin\Debug\net6.0\CourseProblem.runtimeconfig.json
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\bin\Debug\net6.0\CourseProblem.dll
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\bin\Debug\net6.0\CourseProblem.pdb
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.AssemblyInfo.cs
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.dll
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\refint\CourseProblem.dll
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.pdb
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\CourseProblem.genruntimeconfig.cache
+C:\Users\joaod\source\repos\CourseProblem\CourseProblem\obj\Debug\net6.0\ref\CourseProblem.dll

@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.exe
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.deps.json
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.runtimeconfig.json
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.dll
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\bin\Debug\net6.0\ProblemaEstoque.pdb
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.AssemblyInfo.cs
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.dll
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\refint\ProblemaEstoque.dll
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.pdb
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ProblemaEstoque.genruntimeconfig.cache
+C:\Users\joaod\source\repos\ProblemaEstoque\ProblemaEstoque\obj\Debug\net6.0\ref\ProblemaEstoque.dll

@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\bin\Debug\net6.0\IndexOfArray.exe
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\bin\Debug\net6.0\IndexOfArray.deps.json
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\bin\Debug\net6.0\IndexOfArray.runtimeconfig.json
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\bin\Debug\net6.0\IndexOfArray.dll
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\bin\Debug\net6.0\IndexOfArray.pdb
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.AssemblyInfo.cs
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.dll
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\refint\IndexOfArray.dll
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.pdb
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\IndexOfArray.genruntimeconfig.cache
+C:\Users\joaod\source\repos\IndexOfArray\IndexOfArray\obj\Debug\net6.0\ref\IndexOfArray.dll

@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.AssemblyInfo.cs
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\bin\Debug\net6.0\ExemploEnum.exe
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\bin\Debug\net6.0\ExemploEnum.deps.json
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\bin\Debug\net6.0\ExemploEnum.runtimeconfig.json
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\bin\Debug\net6.0\ExemploEnum.dll
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\bin\Debug\net6.0\ExemploEnum.pdb
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.dll
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\refint\ExemploEnum.dll
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.pdb
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ExemploEnum.genruntimeconfig.cache
+C:\Users\joaod\source\repos\ExemploEnum\ExemploEnum\obj\Debug\net6.0\ref\ExemploEnum.dll

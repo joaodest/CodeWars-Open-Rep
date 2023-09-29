@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\bin\Debug\net6.0\ExercFuncionario.exe
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\bin\Debug\net6.0\ExercFuncionario.deps.json
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\bin\Debug\net6.0\ExercFuncionario.runtimeconfig.json
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\bin\Debug\net6.0\ExercFuncionario.dll
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\bin\Debug\net6.0\ExercFuncionario.pdb
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.AssemblyInfo.cs
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.dll
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\refint\ExercFuncionario.dll
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.pdb
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ExercFuncionario.genruntimeconfig.cache
+C:\Users\joaod\source\repos\ExercFuncionario\ExercFuncionario\obj\Debug\net6.0\ref\ExercFuncionario.dll

@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\bin\Debug\net6.0\ValidBraces.exe
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\bin\Debug\net6.0\ValidBraces.deps.json
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\bin\Debug\net6.0\ValidBraces.runtimeconfig.json
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\bin\Debug\net6.0\ValidBraces.dll
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\bin\Debug\net6.0\ValidBraces.pdb
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.AssemblyInfo.cs
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.dll
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\refint\ValidBraces.dll
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.pdb
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ValidBraces.genruntimeconfig.cache
+C:\Users\joaod\source\repos\ValidBraces\ValidBraces\obj\Debug\net6.0\ref\ValidBraces.dll

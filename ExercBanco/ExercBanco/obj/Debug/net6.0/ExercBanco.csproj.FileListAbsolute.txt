@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.AssemblyInfo.cs
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\bin\Debug\net6.0\ExercBanco.exe
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\bin\Debug\net6.0\ExercBanco.deps.json
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\bin\Debug\net6.0\ExercBanco.runtimeconfig.json
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\bin\Debug\net6.0\ExercBanco.dll
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\bin\Debug\net6.0\ExercBanco.pdb
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.dll
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\refint\ExercBanco.dll
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.pdb
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ExercBanco.genruntimeconfig.cache
+C:\Users\joaod\source\repos\ExercBanco\ExercBanco\obj\Debug\net6.0\ref\ExercBanco.dll

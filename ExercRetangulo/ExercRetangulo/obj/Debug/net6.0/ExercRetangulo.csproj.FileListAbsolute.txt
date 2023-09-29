@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\net6.0\ExercRetangulo.exe
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\net6.0\ExercRetangulo.deps.json
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\net6.0\ExercRetangulo.runtimeconfig.json
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\net6.0\ExercRetangulo.dll
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\bin\Debug\net6.0\ExercRetangulo.pdb
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.AssemblyInfo.cs
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.dll
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\refint\ExercRetangulo.dll
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.pdb
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ExercRetangulo.genruntimeconfig.cache
+C:\Users\joaod\source\repos\ExercRetangulo\ExercRetangulo\obj\Debug\net6.0\ref\ExercRetangulo.dll
